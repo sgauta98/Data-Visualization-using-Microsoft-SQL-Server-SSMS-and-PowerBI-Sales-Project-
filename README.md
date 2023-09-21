@@ -6,6 +6,6 @@ The data used for this project is gathered from the Microsoft Adventureworks 202
 
 The software used for this project is Microsoft SQL Server, SQL Server Management Studio 19, Microsoft Excel and PowerBI. 
 
-Credit to Ali Ahmad for ideas used in this project. https://www.youtube.com/@iamaliahmad
+Credit to Ali Ahmad for ideas used in this project. -https://www.youtube.com/@iamaliahmad-
 
 Note: Global security settings must allow for map usage in order to see every element in the PowerBI Dashboard. 
