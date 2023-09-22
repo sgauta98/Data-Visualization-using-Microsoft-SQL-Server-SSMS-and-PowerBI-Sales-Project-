@@ -9,7 +9,7 @@ Example Task email used for this project:
 
   We want to move our internet sales reports to a visual dashboard format from a static report format. Additionally, we would like a deep dive into customer and product sales so we may be able to adjust manufacturing and      marketing to best suit our needs. Please note that we have a team of sales people that each work with various products and customers, so we would like to be able to filter by those variables. 
 
-  Please use the budget spreadsheet we sent to analyze budget performance. The budget is from 2013-2014.
+  Please use the budget spreadsheet we sent to analyze budget performance. We would not like analysis on sales prior to 2012. 
 
   Thanks,
   Company Project Director"
